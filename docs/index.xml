@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje Josue Arturo Rojas Paredes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://example.com/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/post_1/</guid>
+      <description>Lo que mas me ha encantado Launch X es que lo veo como un programa, no solo para estudiar lo que sabes, si no para probar nuevas cosasa, en algunos proyectos los he hecho con tecnologias que ha pedido el MS pero no solo eso, siento que me ha encantado este programa, y mas el proyecto de la pokeApi ya que se que lo hice mas sencillo que mis compañeros, pero estoy contento con mi trabajo orgullo ya que puedo trabajar un poco mas como con TypeScript, y es algo que ya queria integrar, estas son algunas de las tecnologias que adquirido gracias a launch X:</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://example.com/posts/intro/</link>

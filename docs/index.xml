@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura en el desarrollo de software</title>
       <link>https://example.com/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>Hola, espero que esten bien para mi lo mas importante que debe de tener un programador es:
+ Respeto Disciplina Autonomia Confianza Honestidad Compañerismo  Estas cualidades, hacen a cualquier persona ideal para programar ya sea por su propia cuenta o de manera colectiva, siempre hay que pensar en crecer, y eso incluye salir de nuestra zona de confort, y buscar ayuda de otras personas y critica, para el crecimiento constante de nuestro trabajo.</description>
     </item>
     
     <item>
